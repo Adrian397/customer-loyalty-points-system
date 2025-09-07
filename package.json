@@ -1,0 +1,25 @@
+{
+  "name": "customer-loyalty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node loyalty.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adrian397/customer-loyalty-points-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adrian397/customer-loyalty-points-system/issues"
+  },
+  "homepage": "https://github.com/Adrian397/customer-loyalty-points-system#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.3.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
